@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'AgencyFB';
+  src: url('fonts/AgencyFB/AgencyFB-Reg.eot?#iefix') format('embedded-opentype'),  url('fonts/AgencyFB/AgencyFB-Reg.woff') format('woff'), url('fonts/AgencyFB/AgencyFB-Reg.ttf')  format('truetype'), url('fonts/AgencyFB/AgencyFB-Reg.svg#AgencyFB-Reg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AgencyFB';
+  src: url('fonts/AgencyFB/AgencyFB-Bold.eot?#iefix') format('embedded-opentype'),  url('fonts/AgencyFB/AgencyFB-Bold.woff') format('woff'), url('fonts/AgencyFB/AgencyFB-Bold.ttf')  format('truetype'), url('fonts/AgencyFB/AgencyFB-Bold.svg#AgencyFB-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+

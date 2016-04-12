@@ -1,0 +1,7 @@
+<div class="item">
+	<div class="label">{{value>0?name:''}}</div>
+	<div class="progress-bar {{value>0?'':'no-value'}}">
+		{{value>0?'':name}}
+		<div ng-if="value > 0" class="value" style="width: {{value}}%">{{value}}%</div>
+	</div>
+</div>
